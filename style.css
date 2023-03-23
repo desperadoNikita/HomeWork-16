@@ -1,0 +1,13 @@
+
+ .item {
+    font-weight: bold;
+    color: #FFD700;
+    font-size: large;
+ }
+
+ .task {
+    font-size: medium;
+    color: #C0C0C0;
+    font-weight: bold;
+ }
+ 
